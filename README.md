@@ -3,4 +3,4 @@ An optimized PCB for the N64 Gameshark Pro as well as the full schematic. This i
 
 PCB Thickness: 1.2 mm
 
-![image](https://github.com/Modman/REF1220-N64-Gameshark-Pro/blob/main/REF1220.png)
+![image](https://github.com/Modman/REF1220-N64-Gameshark-Pro/blob/main/REF1220%20Optimized.png)
