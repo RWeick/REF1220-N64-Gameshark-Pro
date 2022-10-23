@@ -1,2 +1,6 @@
 # REF1220-N64-Gameshark-Pro
-The full schematic, optimized PCB, and rom dump. 
+An optimized PCB for the N64 Gameshark Pro as well as the full schematic. This is the first revision of the N64 Gameshark which was intended to support a smart card method of updating codes and adding features. The Gameshark Pro v2.1.bin file should be programmed with the low bytes to the bottom SST and the high bytes to the top SST. It's worth noting that no smart cards were ever released for use with this Gameshark.
+
+PCB Thickness: 1.2 mm
+
+![image](https://github.com/Modman/N64-Gameshark-Pro-REF1329/blob/main/REF1329%20Optimized.png)
